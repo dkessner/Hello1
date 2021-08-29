@@ -9,7 +9,7 @@
 
 Javascript ```class``` and array of objects.
 
-<div id="preview"></div>
+<main></main>
 
 [bounce.js](bounce.js)
 ```javascript
